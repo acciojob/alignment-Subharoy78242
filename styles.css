@@ -16,3 +16,12 @@ td {
 .blue {
     background-color: blue;
 }
+
+#t-image {
+    text-align: center; /* Center the image in the table cell */
+}
+
+#t-image img {
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+}
